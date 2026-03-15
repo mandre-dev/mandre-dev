@@ -81,21 +81,6 @@
 
 ### 🚀 Projetos em Destaque
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/mandre-dev/marvert" style="display:inline-block">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=marvert&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-<a href="https://github.com/mandre-dev/devops-project" style="display:inline-block">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=devops-project&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-
-</div>
-
-&nbsp;
-
 #### 🔄 Pipeline DevOps — *Infraestrutura completa de produção*
 
 > API REST em **Python (FastAPI)** com banco **MySQL**, documentada via **Swagger**. Containerizada com **Docker**, orquestrada com **Kubernetes**, infraestrutura provisionada na **AWS (EKS + RDS)** com **Terraform** e pipeline de **CI/CD via GitHub Actions**. Monitoramento com **Prometheus + Grafana**.
