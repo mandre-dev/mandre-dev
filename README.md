@@ -81,17 +81,11 @@
 
 ### 🚀 Projetos em Destaque
 
-<a href="https://github.com/mandre-dev/marvert">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=marvert&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
-
-<br>
+#### 🔄 Pipeline DevOps — *Infraestrutura completa de produção*
 
 <a href="https://github.com/mandre-dev/devops-project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=devops-project&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
 </a>
-
-#### 🔄 Pipeline DevOps — *Infraestrutura completa de produção*
 
 > API REST em **Python (FastAPI)** com banco **MySQL**, documentada via **Swagger**. Containerizada com **Docker**, orquestrada com **Kubernetes**, infraestrutura provisionada na **AWS (EKS + RDS)** com **Terraform** e pipeline de **CI/CD via GitHub Actions**. Monitoramento com **Prometheus + Grafana**.
 
@@ -100,6 +94,10 @@
 ---
 
 #### 🔁 Marvert — *Conversor de arquivos web*
+
+<a href="https://github.com/mandre-dev/marvert">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=marvert&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+</a>
 
 > Aplicação web para conversão entre **PDF, DOCX, XLSX, JPG e PNG**, com foco em performance e UX. Deploy automatizado via **Vercel** com **GitHub Actions**.
 
