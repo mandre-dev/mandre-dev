@@ -86,11 +86,10 @@
 <div align="center">
 
 <a href="https://github.com/mandre-dev/marvert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=marvert&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=marvert&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
 </a>
-
 <a href="https://github.com/mandre-dev/devops-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=devops-project&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandre-dev&repo=devops-project&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
 </a>
 
 </div>
