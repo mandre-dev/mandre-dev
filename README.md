@@ -94,6 +94,8 @@
 
 </div>
 
+&nbsp;
+
 #### 🔄 Pipeline DevOps — *Infraestrutura completa de produção*
 
 > API REST em **Python (FastAPI)** com banco **MySQL**, documentada via **Swagger**. Containerizada com **Docker**, orquestrada com **Kubernetes**, infraestrutura provisionada na **AWS (EKS + RDS)** com **Terraform** e pipeline de **CI/CD via GitHub Actions**. Monitoramento com **Prometheus + Grafana**.
