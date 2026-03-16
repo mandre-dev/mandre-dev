@@ -27,7 +27,7 @@
 
 &#x2022; 🎓 **Formação:** Engenharia de Software - (3º Sem) e Técnico em Informática (IFRJ)
 
-&#x2022; 💻**Foco:** atualAPIs escaláveis, Cloud AWS & Automação
+&#x2022; 💻**Foco Atual:** APIs escaláveis, Cloud AWS & Automação
 
 &#x2022; 🌐 **Idiomas:** Português - Nativo 🇧🇷 / Inglês - Intermediário 🇺🇸
 
