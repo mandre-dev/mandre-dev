@@ -25,7 +25,7 @@
 
 &#x2022;📍 **Localização:** Cabo Frio - RJ, Brasil
 
-&#x2022; 🎓 **Formação:** Engenharia de Software - (3º Sem) e Técnico em Informática (IFRJ)
+&#x2022; 🎓 **Formação:** Engenharia de Software - (4º Sem) e Técnico em Informática (IFRJ)
 
 &#x2022; 💻**Foco Atual:** APIs escaláveis, Cloud AWS & Automação
 
